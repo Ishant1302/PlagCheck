@@ -1,6 +1,6 @@
 # PlagCheck 🧬
 
-A fullstack plagiarism detection app with a modern React dashboard and a Flask NLP backend.
+A fullstack plagiarism detection app with a modern React dashboard and a Flask NLP backend to help users check plagiarism
 
 ## Stack
 - **Backend**: Python / Flask — TF-IDF, Jaccard, N-gram, Sentence matching
